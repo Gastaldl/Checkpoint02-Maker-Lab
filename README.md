@@ -34,5 +34,4 @@
 
 # Montagem
 
-/imagens/img1
-
+<img src="imagens/img1.jpg" alt="img1" width="200">
