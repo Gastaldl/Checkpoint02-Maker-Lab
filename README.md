@@ -50,4 +50,3 @@
 
 <img src="imagens/img7.jpg" alt="img1" width="200">
 
-<img src="imagens/img1.jpg" alt="img1" width="200">
