@@ -32,3 +32,7 @@
 
 * 12 mm - eixo circulo
 
+# Montagem
+
+/imagens/img1
+
