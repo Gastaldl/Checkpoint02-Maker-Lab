@@ -65,8 +65,7 @@
 
 # Perguntas
 
-## O encaixe é “frouxo” ou
-“apertado”?
+## O encaixe é “frouxo” ou “apertado”?
 
 Ele é apertado, porém o encaixe é perfeito.
 
