@@ -74,18 +74,15 @@ Ele é apertado, porém o encaixe é perfeito.
 
 Sim, o eixo gira livremente
 
-## As engrenagens engatam
-corretamente?
+## As engrenagens engatam corretamente?
 
 Sim.
 
-## Há pontos onde encosta na parede
-da caixa?
+## Há pontos onde encosta na parede da caixa?
 
 Sim.
 
-## O movimento trava em algum
-ponto?
+## O movimento trava em algum ponto?
 
 Sim, ele trava ao abrir e ao fechar.
 
