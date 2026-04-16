@@ -18,5 +18,17 @@
 
 * 21mm - Altura
 
-### 
+### Eixo
+
+* 35 mm - elice
+
+* 11mm - altura circulo 
+
+* 7mm - altura elice
+
+* 7mm - diametro do oco
+
+* 9mm - profundidade 
+
+* 12 mm - eixo circulo
 
