@@ -34,4 +34,20 @@
 
 # Montagem
 
+
+
+<img src="imagens/img1.jpg" alt="img1" width="200">
+
+<img src="imagens/img2.jpg" alt="img1" width="200">
+
+<img src="imagens/img3.jpg" alt="img1" width="200">
+
+<img src="imagens/img4.jpg" alt="img1" width="200">
+
+<img src="imagens/img5.jpg" alt="img1" width="200">
+
+<img src="imagens/img6.jpg" alt="img1" width="200">
+
+<img src="imagens/img7.jpg" alt="img1" width="200">
+
 <img src="imagens/img1.jpg" alt="img1" width="200">
